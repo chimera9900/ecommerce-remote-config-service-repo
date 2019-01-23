@@ -16,11 +16,11 @@ spring:
       ddl-auto: update
 
 server:
-   port: 8020
+   port: 6020
       
 management:
    server:
-      port: 8021
+      port: 6021
    endpoints:
       web:
          exposure:
